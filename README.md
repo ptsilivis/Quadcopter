@@ -1,4 +1,4 @@
-Quadcopter
+Quadcopter Project
 ==========
 
-Everything about autonomous navigation
+Everything about autonomous navigation.
